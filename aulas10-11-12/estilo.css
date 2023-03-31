@@ -1,0 +1,19 @@
+body {
+    font-family: arial;
+    background-color:#ccc;
+    font-size: 15px;
+}
+table {
+    background-color: #fff;
+border: 1px dotted #000; 
+}
+thead {
+    background-color: #ccc;
+}
+th {
+    padding: 9px 10px 20px 16px;
+}
+td {
+    padding 9px;
+    border: 1px solid #000;
+}
